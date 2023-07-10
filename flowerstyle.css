@@ -75,10 +75,13 @@ text-align: center;
 /* flower section */
 .flowers{
     margin: 50px 100px;
+    
 }
 .flowers-content{
     display: flex;
-    margin: 0px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
     gap: 40px;
 }
 /* .flowers .flowers-content img{
