@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: #272727;
+}
+/* header style */
+header{
+    background-color: #E554731A;
+}
+.header-info{
+    display: flex;
+}
+header ul{
+    list-style: none;
+    padding: 190px 100px 160px 240px;
+}
+header p{
+    font-weight: 400px;
+    font-size: 10px;
+}
+header img{
+    width: 450px;
+    height: 600px;
+    margin-top: 50px;
+    margin-right: 200px;
+}
+.btn-primary{
+    padding: 10px;
+    background-color: #E55473;
+    border: 0px;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
