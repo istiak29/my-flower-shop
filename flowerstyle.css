@@ -23,6 +23,7 @@ header img{
     height: 600px;
     margin-top: 50px;
     margin-right: 200px;
+    padding-bottom: 0px;
 }
 .btn-primary{
     padding: 10px;
@@ -30,4 +31,28 @@ header img{
     border: 0px;
     border-radius: 5px;
     color: #FFFFFF;
+}
+
+/* main section */
+.main-section{
+    display: flex;
+    padding: 200px;
+    align-items: center;
+    justify-content: space-between
+}
+.discount-section{
+    background-color: #E554730D;
+    margin: 100px 0px 100px;
+}
+.discount{
+    list-style: none;
+}
+/* .main-section ul li{
+    list-style: none;
+} */
+.discount span{
+    color: #E55473;
+}
+.btn-signup{
+    justify-content: center;
 }
