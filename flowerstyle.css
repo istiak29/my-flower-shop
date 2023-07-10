@@ -57,7 +57,7 @@ header img{
     justify-content: center;
 }
 
-/* socila section */
+/* social section */
 .social{
 text-align: center;
 }
@@ -67,7 +67,16 @@ text-align: center;
 }
 .social p{
     color: #27272799;
-
     font-size: 15px;
-    
+}
+
+/* flower section */
+.flowers-content{
+    display: flex;
+    margin-left: 250px;
+}
+.flowers .flowers-content img{
+    width: 342px;
+    height: 396px;
+    margin: 10px 20px 30px 20px;
 }
