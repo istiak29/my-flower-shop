@@ -31,6 +31,7 @@ header img{
     border: 0px;
     border-radius: 5px;
     color: #FFFFFF;
+    height: 45px;
 }
 
 /* main section */
@@ -79,4 +80,23 @@ text-align: center;
     width: 342px;
     height: 396px;
     margin: 10px 20px 30px 20px;
+}
+
+/* flower form */
+.flower-form{
+    background-image: url('asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin: 200px;
+}
+.form-description{
+    text-align: center;
+    padding: 100px;
+}
+.form-description input{
+    margin: 10px;
+    height: 10px;
+    padding: 20px 500px 20px 20px;
+    border: none;
+    border-radius: 5px;
+    color: #27272799;
 }
