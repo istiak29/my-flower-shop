@@ -56,3 +56,18 @@ header img{
 .btn-signup{
     justify-content: center;
 }
+
+/* socila section */
+.social{
+text-align: center;
+}
+.social h3{
+    color: #272727;
+    
+}
+.social p{
+    color: #27272799;
+
+    font-size: 15px;
+    
+}
