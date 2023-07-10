@@ -100,3 +100,20 @@ text-align: center;
     border-radius: 5px;
     color: #27272799;
 }
+/* Footer */
+.footer-contents{
+    background-color: #111010;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 120px 0px;
+}
+.footer-contents span{
+    color: #E55473;
+}
+.footer-contents p{
+    color: #FFFFFFE5;
+}
+.copy-rights{
+    padding: 20px 0px 100px 0px;
+    color: #FFFFFF66;
+}
