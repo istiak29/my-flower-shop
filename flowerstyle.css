@@ -26,12 +26,12 @@ header img{
     padding-bottom: 0px;
 }
 .btn-primary{
-    padding: 10px;
+    padding: 20px 40px;
     background-color: #E55473;
     border: 0px;
     border-radius: 5px;
     color: #FFFFFF;
-    height: 45px;
+    
 }
 
 /* main section */
@@ -94,20 +94,41 @@ text-align: center;
 .flower-form{
     background-image: url('asset/Rectangle\ 9.png');
     background-repeat: no-repeat;
-    margin: 200px;
+    margin: 100px 200px;
 }
 .form-description{
     text-align: center;
-    padding: 100px;
+    padding-top: 120px;
 }
-.form-description input{
+/* .form-description input{
     margin: 10px;
     height: 10px;
     padding: 20px 500px 20px 20px;
     border: none;
     border-radius: 5px;
     color: #27272799;
+} */
+.input-submit{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    
 }
+#email{
+    border: none;
+    border-radius: 5px;
+    padding: 20px 400px 20px 20px;
+    width: 300px;
+    margin-top: 50px;
+    margin-bottom: 120px;
+}
+#submit-button{
+    padding: 5px 30px;
+    margin-top: 50px;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
 /* Footer */
 .footer-contents{
     background-color: #111010;
