@@ -35,28 +35,29 @@ header img{
 }
 
 /* main section */
+.discount-section {
+    background-color: #E554730D;
+    margin: 100px 0px 100px;
+}
 .main-section{
     display: flex;
     padding: 200px;
     align-items: center;
     justify-content: space-between
 }
-.discount-section{
-    background-color: #E554730D;
-    margin: 100px 0px 100px;
-}
+
 .discount{
     list-style: none;
+    text-align: center;
+    margin-right: 200px;
 }
-/* .main-section ul li{
-    list-style: none;
-} */
+.discount img{
+    margin-right: 400px;
+}
 .discount span{
     color: #E55473;
 }
-.btn-signup{
-    justify-content: center;
-}
+
 
 /* social section */
 .social{
@@ -72,15 +73,19 @@ text-align: center;
 }
 
 /* flower section */
+.flowers{
+    margin: 50px 100px;
+}
 .flowers-content{
     display: flex;
-    margin-left: 250px;
+    margin: 0px;
+    gap: 40px;
 }
-.flowers .flowers-content img{
+/* .flowers .flowers-content img{
     width: 342px;
     height: 396px;
     margin: 10px 20px 30px 20px;
-}
+} */
 
 /* flower form */
 .flower-form{
