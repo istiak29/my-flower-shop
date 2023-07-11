@@ -55,6 +55,10 @@ header img {
   text-align: center;
   margin-right: 200px;
 }
+.discount p{
+    color: #27272799;
+    font-size: 12px;
+}
 .discount img {
   margin-right: 400px;
 }
