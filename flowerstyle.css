@@ -159,14 +159,14 @@ header img {
 }
 .image{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin: 30px 200px 50px;
 }
 .image .image-title{
     text-decoration: underline;
 }
 .top-round-image{
-    
+    margin-right: 30px;
 }
 
 #img1{
