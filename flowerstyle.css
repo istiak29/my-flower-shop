@@ -168,6 +168,7 @@ header img {
 }
 .image .image-title{
     text-decoration: underline;
+    text-align: center;
 }
 .top-round-image{
     margin-right: 30px;
