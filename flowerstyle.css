@@ -168,16 +168,17 @@ header img {
 .top-round-image{
     margin-right: 30px;
 }
-
+.image-resize{
+    border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 538px;
+}
 #img1{
     background-color: #A7216226;
-    border-radius: 300px 300px 0px 0px;
 }
 #img2{
     background-color: #0597A026;
-    border-radius: 300px 300px 0px 0px;
 }
 #img3{
     background-color: #477D1126;
-    border-radius: 300px 300px 0px 0px;
 }
